@@ -1,2 +1,2 @@
-# musicbox
-this is musicplayer
+# Tetris Java
+this is Game Tetris using java
